@@ -1,7 +1,7 @@
 {
-  "name": "@EsteMaeLeo/github-pkg-demo",
+  "name": "@estemaeleo/github-pkg-demo",
   "repository": {
-    "url": "git://github.com/EsteMaeLeo/github-pkg-demo.git"
+    "url": "git://github.com/estemaeleo/github-pkg-demo.git"
 },
   "version": "1.0.0",
   "description": "",
